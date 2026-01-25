@@ -1,0 +1,15 @@
+{
+  "name": "aur-store",
+  "version": "1.0.0",
+  "description": "Apple-styled AUR Package Store for Arch Linux",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-pty": "^1.0.0",
+    "ws": "^8.16.0"
+  }
+}
