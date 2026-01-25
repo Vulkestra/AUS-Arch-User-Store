@@ -1,4 +1,4 @@
-# AUR Store
+# AUS Arch User Store
 
 A modern, Apple-inspired graphical package manager for the Arch User Repository (AUR).
 
